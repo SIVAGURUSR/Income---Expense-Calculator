@@ -22,7 +22,7 @@ A simple Income Expense Calculator that allows users to track their financial st
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/SIVAGURUSR/Income-Expense-Calculator
 
 2. Navigate to the project directory:
    ```bash
